@@ -1,4 +1,4 @@
 baseURL = 'http://earnor.github.io/'
 languageCode = 'en-us'
 title = 'Welcome!'
-theme = 'theme-academic-cv'
+#theme = 'theme-academic-cv'
