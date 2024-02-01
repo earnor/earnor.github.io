@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Europe | Welcome!</title>
+    <link>https://earnor.github.io/tag/europe/</link>
+      <atom:link href="https://earnor.github.io/tag/europe/index.xml" rel="self" type="application/rss+xml" />
+    <description>Europe</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://earnor.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Europe</title>
+      <link>https://earnor.github.io/tag/europe/</link>
+    </image>
+    
+    <item>
+      <title>Modeling cross-national differences in automated vehicle acceptance</title>
+      <link>https://earnor.github.io/publication/journal-article/2020-01-01_modeling_cross-natio/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://earnor.github.io/publication/journal-article/2020-01-01_modeling_cross-natio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The role of human operators in safety perception of av deployment—insights from a large european survey</title>
+      <link>https://earnor.github.io/publication/journal-article/2020-01-01_the_role_of_human_op/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://earnor.github.io/publication/journal-article/2020-01-01_the_role_of_human_op/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cycling | Welcome!</title>
+    <link>https://earnor.github.io/tag/cycling/</link>
+      <atom:link href="https://earnor.github.io/tag/cycling/index.xml" rel="self" type="application/rss+xml" />
+    <description>cycling</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 24 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://earnor.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>cycling</title>
+      <link>https://earnor.github.io/tag/cycling/</link>
+    </image>
+    
+    <item>
+      <title>On accessibility and infrastructure</title>
+      <link>https://earnor.github.io/post/2021-06-24-accessibility-and-infrastructure/</link>
+      <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://earnor.github.io/post/2021-06-24-accessibility-and-infrastructure/</guid>
+      <description>&lt;p&gt;It seems to me that when decision-makers want to build infrastructure for transportation in urban areas, the discussion gets very heated. Land is scarce – so users, all of a sudden, become spokespeople for each mode which they most often use, fighting that enough land is provided to their mode.&lt;/p&gt;
+&lt;p&gt;In many ways this politicisation and discussion can be very positive because we appreciate the different perspectives when it comes to evaluating building long-lasting infrastructure. For this appreciation to be the case, different users and eventually their elected representatives must be able to understand and empathise with different needs of different modes.&lt;/p&gt;
+&lt;p&gt;But maybe we need to also see that we shouldn’t be fighting for land, we should be fighting for more access to land.&lt;/p&gt;
+&lt;p&gt;In the last 120 years, the cars have enabled normal people great things and increased the opportunities they have, in other words, a motorised vehicle has increased the accessibility of pretty much everyone. Metaphorically speaking, the world has become smaller right in front of us.&lt;/p&gt;
+&lt;p&gt;On the image below a map of Switzerland is shown. The cells are distorted dependent on the travel time across the cells. A travel time of one hour stays constant, so a smaller map, means faster travel. The maps between 1950 and 2000 are compared (Axhausen, 2008).&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;png&#34; srcset=&#34;
+               /post/2021-06-24-accessibility-and-infrastructure/featured_huc9fa0367bdaee90d81bb01ef47968026_111990_f0ec47c5044a963358982d63d0beb3fc.webp 400w,
+               /post/2021-06-24-accessibility-and-infrastructure/featured_huc9fa0367bdaee90d81bb01ef47968026_111990_43e223d5f2a326246b49ba8b83554271.webp 760w,
+               /post/2021-06-24-accessibility-and-infrastructure/featured_huc9fa0367bdaee90d81bb01ef47968026_111990_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://earnor.github.io/post/2021-06-24-accessibility-and-infrastructure/featured_huc9fa0367bdaee90d81bb01ef47968026_111990_f0ec47c5044a963358982d63d0beb3fc.webp&#34;
+               width=&#34;631&#34;
+               height=&#34;523&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;em&gt;&amp;ldquo;The world is shrinking&amp;rdquo;: The image shows the reduction in travel time necessary between 1950 and 2000&lt;/em&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Accessibility is a term often used in transport and land-use planning, and is generally understood to mean approximately ’ease of reaching’. Accessibility is concerned with the opportunity that on individual or type of person at a given location possesses to take part in a particular activity or set of activities.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;At the same time, this has also provided the opportunity to move further away from the city, which provides lower cost of housing and commute to work. However, as more people can afford to do this, and population further grows, this leads to traffic congestions on the highways causing slower traffic, increased delays etc.&lt;/p&gt;
+&lt;p&gt;As central business districts (CBDs) get less accessible, the companies generally react by moving jobs elsewhere, ceteris parabus. There are many reasons why companies decide their locaton and prefer to cluster with other firms, but the accessibility to a staff pool is an important one.&lt;/p&gt;
+&lt;p&gt;Back to the user: After the arrival of the automobile, there was clearly a leap for lower costs and improved accessibility based on the car infrastructure. As we see congested roads and revitalised cities, it is observed that this did not pay off for those families who invested in housing in the sub-urbs and travel long distances with car to their job. The accessibility to jobs is less in these cities. So what is the solution?&lt;/p&gt;
+&lt;p&gt;A recent Open Access paper published in Nature’s Urban Sustainability by Wu &amp;amp; colleagues approached infrastructure networks from a very interesting point of view. They looked at the accessibility to jobs in different cities calculated for different modes.&lt;/p&gt;
+&lt;p&gt;Two things I’d like to highlight:&lt;/p&gt;
+&lt;p&gt;What is less surprising, is that Dutch cities, famous for their cycling infrastructure, and other European cities such as Vienna, Krakow and Paris are among those cities with the highest accessibility to jobs &lt;em&gt;by bike&lt;/em&gt; and &lt;em&gt;by walking&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;png&#34; srcset=&#34;
+               /post/2021-06-24-accessibility-and-infrastructure/fig-1_hu7305102c1704561a94163f4bce141d5f_39244_1a4e7c4b967b1d2851c8335295473347.webp 400w,
+               /post/2021-06-24-accessibility-and-infrastructure/fig-1_hu7305102c1704561a94163f4bce141d5f_39244_4a7941b7174d189be0225e9a9388a5b2.webp 760w,
+               /post/2021-06-24-accessibility-and-infrastructure/fig-1_hu7305102c1704561a94163f4bce141d5f_39244_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://earnor.github.io/post/2021-06-24-accessibility-and-infrastructure/fig-1_hu7305102c1704561a94163f4bce141d5f_39244_1a4e7c4b967b1d2851c8335295473347.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;695&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;png&#34; srcset=&#34;
+               /post/2021-06-24-accessibility-and-infrastructure/fig2_hubac9e59b52a9bb82996012bdebcaf146_41024_5f362a384d4d53782099c52a1e001c69.webp 400w,
+               /post/2021-06-24-accessibility-and-infrastructure/fig2_hubac9e59b52a9bb82996012bdebcaf146_41024_322bcde648e79c8f755b651aad191348.webp 760w,
+               /post/2021-06-24-accessibility-and-infrastructure/fig2_hubac9e59b52a9bb82996012bdebcaf146_41024_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://earnor.github.io/post/2021-06-24-accessibility-and-infrastructure/fig2_hubac9e59b52a9bb82996012bdebcaf146_41024_5f362a384d4d53782099c52a1e001c69.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;686&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;em&gt;Access to jobs by walking (above) and by cycling (below) //Pictures from &lt;a href=&#34;https://www.nature.com/articles/s42949-021-00020-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wu et al. (2021)&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Second: A very interesting result in this paper, is that the Dutch cities also score very highly for the accessibility to jobs &lt;em&gt;by car&lt;/em&gt; and score higher than other cities, which have focused less on “slow-mode” infrastructure. A lot of the heated debate on cycling infrastructure investment mentioned above, however, bases on the “fact” that more cycling infrastructure takes space away from cars, which can only be bad. Right?&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;png&#34; srcset=&#34;
+               /post/2021-06-24-accessibility-and-infrastructure/fig3_hua8f93b9f783388f5bf3072c5b759b02b_37694_2bd7f083175eb604f4251129491cad40.webp 400w,
+               /post/2021-06-24-accessibility-and-infrastructure/fig3_hua8f93b9f783388f5bf3072c5b759b02b_37694_80b455630c53538684b8eaa542d7bb5b.webp 760w,
+               /post/2021-06-24-accessibility-and-infrastructure/fig3_hua8f93b9f783388f5bf3072c5b759b02b_37694_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://earnor.github.io/post/2021-06-24-accessibility-and-infrastructure/fig3_hua8f93b9f783388f5bf3072c5b759b02b_37694_2bd7f083175eb604f4251129491cad40.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;694&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;em&gt;Access to jobs by automobile //Picture from &lt;a href=&#34;https://www.nature.com/articles/s42949-021-00020-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wu et al. (2021)&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;This paper shows evidence that more cycling accessibility (provided by increased infrastructure and policy) correlates with more accessibility overall meaning that they complement each other very well. My hypothesis is that this happens because both people and their jobs stay in the “centers” of cities when people are provided with mobility opportunities, be it by car, bicycle or transit. This also makes it more interesting as a company to stay in CBDs as the staff pool is retained in those areas.&lt;/p&gt;
+&lt;p&gt;Therefore, we do not improve peoples’ opportunities by maximising efficiency of one mode – but rather providing choices for mobility.&lt;/p&gt;
+&lt;!--
+---
+date: &#34;2023-11-04&#34;
+summary: Easily blog from Jupyter notebooks!
+title: Blog with Jupyter Notebooks!
+---
+
+```python
+from IPython.core.display import Image
+Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
+```
+
+    
+![png](output_1_0.png)
+    
+
+```python
+print(&#34;Welcome to Academic!&#34;)
+```
+
+    Welcome to Academic!
+
+## Organize your notebooks
+
+Place the notebooks that you would like to publish in a `notebooks` folder at the root of your website.
+
+## Import the notebooks into your site
+
+```bash
+pipx install academic
+academic import &#39;notebooks/**.ipynb&#39; content/post/ --verbose
+```
+
+The notebooks will be published to the folder you specify above. In this case, they will be published to your `content/post/` folder.
+---&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

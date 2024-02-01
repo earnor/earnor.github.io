@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Accessibility | Welcome!</title>
+    <link>https://earnor.github.io/category/accessibility/</link>
+      <atom:link href="https://earnor.github.io/category/accessibility/index.xml" rel="self" type="application/rss+xml" />
+    <description>Accessibility</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 24 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://earnor.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Accessibility</title>
+      <link>https://earnor.github.io/category/accessibility/</link>
+    </image>
+    
+    <item>
+      <title>On accessibility and infrastructure</title>
+      <link>https://earnor.github.io/post/2021-06-24-accessibility-and-infrastructure/</link>
+      <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://earnor.github.io/post/2021-06-24-accessibility-and-infrastructure/</guid>
+      <description>&lt;p&gt;It seems to me that when decision-makers want to build infrastructure for transportation in urban areas, the discussion gets very heated. Land is scarce – so users, all of a sudden, become spokespeople for each mode which they most often use, fighting that enough land is provided to their mode.&lt;/p&gt;
+&lt;p&gt;In many ways this politicisation and discussion can be very positive because we appreciate the different perspectives when it comes to evaluating building long-lasting infrastructure. For this appreciation to be the case, different users and eventually their elected representatives must be able to understand and empathise with different needs of different modes.&lt;/p&gt;
+&lt;p&gt;But maybe we need to also see that we shouldn’t be fighting for land, we should be fighting for more access to land.&lt;/p&gt;
+&lt;p&gt;In the last 120 years, the cars have enabled normal people great things and increased the opportunities they have, in other words, a motorised vehicle has increased the accessibility of pretty much everyone. Metaphorically speaking, the world has become smaller right in front of us.&lt;/p&gt;
+&lt;p&gt;On the image below a map of Switzerland is shown. The cells are distorted dependent on the travel time across the cells. A travel time of one hour stays constant, so a smaller map, means faster travel. The maps between 1950 and 2000 are compared (Axhausen, 2008).&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;png&#34; srcset=&#34;
+               /post/2021-06-24-accessibility-and-infrastructure/featured_huc9fa0367bdaee90d81bb01ef47968026_111990_f0ec47c5044a963358982d63d0beb3fc.webp 400w,
+               /post/2021-06-24-accessibility-and-infrastructure/featured_huc9fa0367bdaee90d81bb01ef47968026_111990_43e223d5f2a326246b49ba8b83554271.webp 760w,
+               /post/2021-06-24-accessibility-and-infrastructure/featured_huc9fa0367bdaee90d81bb01ef47968026_111990_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://earnor.github.io/post/2021-06-24-accessibility-and-infrastructure/featured_huc9fa0367bdaee90d81bb01ef47968026_111990_f0ec47c5044a963358982d63d0beb3fc.webp&#34;
+               width=&#34;631&#34;
+               height=&#34;523&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;em&gt;&amp;ldquo;The world is shrinking&amp;rdquo;: The image shows the reduction in travel time necessary between 1950 and 2000&lt;/em&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Accessibility is a term often used in transport and land-use planning, and is generally understood to mean approximately ’ease of reaching’. Accessibility is concerned with the opportunity that on individual or type of person at a given location possesses to take part in a particular activity or set of activities.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;At the same time, this has also provided the opportunity to move further away from the city, which provides lower cost of housing and commute to work. However, as more people can afford to do this, and population further grows, this leads to traffic congestions on the highways causing slower traffic, increased delays etc.&lt;/p&gt;
+&lt;p&gt;As central business districts (CBDs) get less accessible, the companies generally react by moving jobs elsewhere, ceteris parabus. There are many reasons why companies decide their locaton and prefer to cluster with other firms, but the accessibility to a staff pool is an important one.&lt;/p&gt;
+&lt;p&gt;Back to the user: After the arrival of the automobile, there was clearly a leap for lower costs and improved accessibility based on the car infrastructure. As we see congested roads and revitalised cities, it is observed that this did not pay off for those families who invested in housing in the sub-urbs and travel long distances with car to their job. The accessibility to jobs is less in these cities. So what is the solution?&lt;/p&gt;
+&lt;p&gt;A recent Open Access paper published in Nature’s Urban Sustainability by Wu &amp;amp; colleagues approached infrastructure networks from a very interesting point of view. They looked at the accessibility to jobs in different cities calculated for different modes.&lt;/p&gt;
+&lt;p&gt;Two things I’d like to highlight:&lt;/p&gt;
+&lt;p&gt;What is less surprising, is that Dutch cities, famous for their cycling infrastructure, and other European cities such as Vienna, Krakow and Paris are among those cities with the highest accessibility to jobs &lt;em&gt;by bike&lt;/em&gt; and &lt;em&gt;by walking&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;png&#34; srcset=&#34;
+               /post/2021-06-24-accessibility-and-infrastructure/fig-1_hu7305102c1704561a94163f4bce141d5f_39244_1a4e7c4b967b1d2851c8335295473347.webp 400w,
+               /post/2021-06-24-accessibility-and-infrastructure/fig-1_hu7305102c1704561a94163f4bce141d5f_39244_4a7941b7174d189be0225e9a9388a5b2.webp 760w,
+               /post/2021-06-24-accessibility-and-infrastructure/fig-1_hu7305102c1704561a94163f4bce141d5f_39244_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://earnor.github.io/post/2021-06-24-accessibility-and-infrastructure/fig-1_hu7305102c1704561a94163f4bce141d5f_39244_1a4e7c4b967b1d2851c8335295473347.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;695&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;png&#34; srcset=&#34;
+               /post/2021-06-24-accessibility-and-infrastructure/fig2_hubac9e59b52a9bb82996012bdebcaf146_41024_5f362a384d4d53782099c52a1e001c69.webp 400w,
+               /post/2021-06-24-accessibility-and-infrastructure/fig2_hubac9e59b52a9bb82996012bdebcaf146_41024_322bcde648e79c8f755b651aad191348.webp 760w,
+               /post/2021-06-24-accessibility-and-infrastructure/fig2_hubac9e59b52a9bb82996012bdebcaf146_41024_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://earnor.github.io/post/2021-06-24-accessibility-and-infrastructure/fig2_hubac9e59b52a9bb82996012bdebcaf146_41024_5f362a384d4d53782099c52a1e001c69.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;686&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;em&gt;Access to jobs by walking (above) and by cycling (below) //Pictures from &lt;a href=&#34;https://www.nature.com/articles/s42949-021-00020-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wu et al. (2021)&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Second: A very interesting result in this paper, is that the Dutch cities also score very highly for the accessibility to jobs &lt;em&gt;by car&lt;/em&gt; and score higher than other cities, which have focused less on “slow-mode” infrastructure. A lot of the heated debate on cycling infrastructure investment mentioned above, however, bases on the “fact” that more cycling infrastructure takes space away from cars, which can only be bad. Right?&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;png&#34; srcset=&#34;
+               /post/2021-06-24-accessibility-and-infrastructure/fig3_hua8f93b9f783388f5bf3072c5b759b02b_37694_2bd7f083175eb604f4251129491cad40.webp 400w,
+               /post/2021-06-24-accessibility-and-infrastructure/fig3_hua8f93b9f783388f5bf3072c5b759b02b_37694_80b455630c53538684b8eaa542d7bb5b.webp 760w,
+               /post/2021-06-24-accessibility-and-infrastructure/fig3_hua8f93b9f783388f5bf3072c5b759b02b_37694_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://earnor.github.io/post/2021-06-24-accessibility-and-infrastructure/fig3_hua8f93b9f783388f5bf3072c5b759b02b_37694_2bd7f083175eb604f4251129491cad40.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;694&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;em&gt;Access to jobs by automobile //Picture from &lt;a href=&#34;https://www.nature.com/articles/s42949-021-00020-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wu et al. (2021)&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;This paper shows evidence that more cycling accessibility (provided by increased infrastructure and policy) correlates with more accessibility overall meaning that they complement each other very well. My hypothesis is that this happens because both people and their jobs stay in the “centers” of cities when people are provided with mobility opportunities, be it by car, bicycle or transit. This also makes it more interesting as a company to stay in CBDs as the staff pool is retained in those areas.&lt;/p&gt;
+&lt;p&gt;Therefore, we do not improve peoples’ opportunities by maximising efficiency of one mode – but rather providing choices for mobility.&lt;/p&gt;
+&lt;!--
+---
+date: &#34;2023-11-04&#34;
+summary: Easily blog from Jupyter notebooks!
+title: Blog with Jupyter Notebooks!
+---
+
+```python
+from IPython.core.display import Image
+Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
+```
+
+    
+![png](output_1_0.png)
+    
+
+```python
+print(&#34;Welcome to Academic!&#34;)
+```
+
+    Welcome to Academic!
+
+## Organize your notebooks
+
+Place the notebooks that you would like to publish in a `notebooks` folder at the root of your website.
+
+## Import the notebooks into your site
+
+```bash
+pipx install academic
+academic import &#39;notebooks/**.ipynb&#39; content/post/ --verbose
+```
+
+The notebooks will be published to the folder you specify above. In this case, they will be published to your `content/post/` folder.
+---&gt;</description>
+    </item>
+    
+    <item>
+      <title>Removing highways - Solution or a disservice?</title>
+      <link>https://earnor.github.io/post/2021-05-27-removing-highways/</link>
+      <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://earnor.github.io/post/2021-05-27-removing-highways/</guid>
+      <description>&lt;p&gt;Today, an &lt;a href=&#34;https://www.nytimes.com/interactive/2021/05/27/climate/us-cities-highway-removal.html?ref=oembed&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;article&lt;/a&gt; was posted on the New York Times suggesting that in order to revive urban centers all over the United States, many cities are considering removing high-volume roads and highways from the city center.&lt;/p&gt;
+&lt;p&gt;When discussing the traffic impacts of such interventions, the narrative prevails that little impact on traffic levels is seen on neighboring roads at first glance. However, this does not necessarily mean that the planners are not causing a disservice within the network from a transportation point of view.&lt;/p&gt;
+&lt;p&gt;From an urban development point of view large highways have a very segregating effect. Physically, these become barriers of social engagement. Pedestrians are much less likely to cross highways than single-lane urban roads.&lt;/p&gt;
+&lt;p&gt;Socioeconomically, highways can depreciate the value of real estate in their vicinity, at the same time as the appreciate the value of sub-urban real estate because of the improvement in accessibility between sub-urban neighborhoods.&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Accessibility is a term often used in transport and land-use planning, and is generally understood to mean approximately ’ease of reaching’. Accessibility is concerned with the opportunity that on individual or type of person at a given location possesses to take part in a particular activity or set of activities.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;p&gt;As the NYT article illustrates, there exists massive potential in urban redevelopment through the removal of these highways, encouraging walking, improving the green areas and start creating communities instead of offering them “a highway and go directly out of our community” This could however lead to clear consequences on the traffic.&lt;/p&gt;
+&lt;p&gt;The authors shrug this off by writing:&lt;/p&gt;
+&lt;h4 id=&#34;and-the-big-fear-of-removing-a-highway--terrible-traffic--hasnt-materialized&#34;&gt;And the big fear of removing a highway — terrible traffic — hasn’t materialized.&lt;/h4&gt;
+&lt;p&gt;Let’s be clear:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;From an urban development point of view (p.o.v.), the removal of highways has positive effects on the life of those living in close vicinity&lt;/li&gt;
+&lt;li&gt;From a transport behavior p.o.v., it can be logical that “terrible traffic” will not materialise.&lt;/li&gt;
+&lt;li&gt;People are very adaptable and if they have less choice, they still optimise their travel behavior, given the opportunities they are provided with, although the choices today may be worse than yesterday.
+From a transport planning standpoint, removing a highway can be quite significant. If news articles like this, or review articles suggest a narrative that claims it has no impact on traffic, or even that it “disappears”, such claims are, at best, misleading.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;So where does the traffic go? Let’s consider an example.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;png&#34; srcset=&#34;
+               /post/2021-05-27-removing-highways/fig1_hu4b619c9d27215034114df1b75f375312_5096_6ef73895281c9b829758b48a36ea67f4.webp 400w,
+               /post/2021-05-27-removing-highways/fig1_hu4b619c9d27215034114df1b75f375312_5096_898fb429f4666e99a3a1928ba276e524.webp 760w,
+               /post/2021-05-27-removing-highways/fig1_hu4b619c9d27215034114df1b75f375312_5096_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://earnor.github.io/post/2021-05-27-removing-highways/fig1_hu4b619c9d27215034114df1b75f375312_5096_6ef73895281c9b829758b48a36ea67f4.webp&#34;
+               width=&#34;686&#34;
+               height=&#34;211&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;em&gt;An example network with shopping opportunities available for a resident, living at node A&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Let’s consider neighborhoods A, B and C. They are linked with links 1-4. At nodes B and C we have large supermarkets, whereas node A is served by a cornershop. The planners suggest to remove highway 1 because residents in between A and B are severely affected by noise and the highway splits up a school neighborhood.&lt;/p&gt;
+&lt;p&gt;Prior to removing the highway, the planners measure the traffic on neighboring roads 2 and 3 which are much slower than the highway 1 because they lead you through smaller roads. These counts on road 2 and 3 see little change after the highway has been removed.&lt;/p&gt;
+&lt;p&gt;Those residents of neighborhood A who before the highway removal did their shopping at supermarket in B will, instead of traveling through narrow roads 2 and 3, either settle for the corner shop in A or travel further to C.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;png&#34; srcset=&#34;
+               /post/2021-05-27-removing-highways/fig1_hu4b619c9d27215034114df1b75f375312_5096_6ef73895281c9b829758b48a36ea67f4.webp 400w,
+               /post/2021-05-27-removing-highways/fig1_hu4b619c9d27215034114df1b75f375312_5096_898fb429f4666e99a3a1928ba276e524.webp 760w,
+               /post/2021-05-27-removing-highways/fig1_hu4b619c9d27215034114df1b75f375312_5096_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://earnor.github.io/post/2021-05-27-removing-highways/fig1_hu4b619c9d27215034114df1b75f375312_5096_6ef73895281c9b829758b48a36ea67f4.webp&#34;
+               width=&#34;686&#34;
+               height=&#34;211&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;em&gt;The same network as above except a link between A and B has been removed&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ergo, while it is true that we may not measure an increase in traffic on neighboring roads 2 and 3, as suggested by this article or in some scientific findings, this does not exclude the idea that we have actually reduced the accessibility within the network and may lead to a disservice within the network. We should not ignore, or belittle that effect. However, the service provided by a park or other opportunity replacing the highway may be larger from an urban planning standpoint than the disservice in the reduction of accessibility from a transportation standpoint.&lt;/p&gt;
+&lt;p&gt;This small thought experiment highlights the necessity for urban planners, transport planners and infrastructure planners to work together. This can improve our cities.&lt;/p&gt;
+&lt;!---
+
+```python
+import libr
+print(&#39;hello&#39;)
+```
+
+## Overview
+
+1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
+2. The template can be modified and customised to suit your needs. It&#39;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
+3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+
+[![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png)](https://hugoblox.com)
+
+## Get Started
+
+- 👉 [**Create a new site**](https://hugoblox.com/templates/)
+- 📚 [**Personalize your site**](https://docs.hugoblox.com/)
+- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
+- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&amp;src=typed_query)
+- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/HugoBlox/hugo-blox-builder/issues)
+- ⬆️ **Updating Wowchemy?** View the [Update Tutorial](https://docs.hugoblox.com/hugo-tutorials/update/) and [Release Notes](https://hugoblox.com/updates/)
+
+## Crowd-funded open-source software
+
+To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
+
+### [❤️ Click here to become a sponsor and help support Wowchemy&#39;s future ❤️](https://hugoblox.com/sponsor/)
+
+As a token of appreciation for sponsoring, you can **unlock [these](https://hugoblox.com/sponsor/) awesome rewards and extra features 🦄✨**
+
+## Ecosystem
+
+- **[Hugo Academic CLI](https://github.com/GetRD/academic-file-converter):** Automatically import publications from BibTeX
+
+## Inspiration
+
+[Check out the latest **demo**](https://academic-demo.netlify.com/) of what you&#39;ll get in less than 10 minutes, or [view the **showcase**](https://hugoblox.com/user-stories/) of personal, project, and business sites.
+
+## Features
+
+- **Page builder** - Create _anything_ with [**widgets**](https://docs.hugoblox.com/page-builder/) and [**elements**](https://docs.hugoblox.com/content/writing-markdown-latex/)
+- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
+- **Create content** in [**Markdown**](https://docs.hugoblox.com/content/writing-markdown-latex/), [**Jupyter**](https://docs.hugoblox.com/import/jupyter/), or [**RStudio**](https://docs.hugoblox.com/install-locally/)
+- **Plugin System** - Fully customizable [**color** and **font themes**](https://docs.hugoblox.com/customization/)
+- **Display Code and Math** - Code highlighting and [LaTeX math](https://en.wikibooks.org/wiki/LaTeX/Mathematics) supported
+- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
+- **Beautiful Site** - Simple and refreshing one page design
+- **Industry-Leading SEO** - Help get your website found on search engines and social media
+- **Media Galleries** - Display your images and videos with captions in a customizable gallery
+- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
+- **Multi-language** - 34+ language packs including English, 中文, and Português
+- **Multi-user** - Each author gets their own profile page
+- **Privacy Pack** - Assists with GDPR
+- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
+- **One-Click Deployment** - No servers. No databases. Only files.
+
+## Themes
+
+Wowchemy and its templates come with **automatic day (light) and night (dark) mode** built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to see it in action! Day/night mode can also be disabled by the site admin in `params.toml`.
+
+[Choose a stunning **theme** and **font**](https://docs.hugoblox.com/customization) for your site. Themes are fully customizable.
+
+## License
+
+Copyright 2016-present [George Cushen](https://georgecushen.com).
+
+Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/master/LICENSE.md) license.
+
+---&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

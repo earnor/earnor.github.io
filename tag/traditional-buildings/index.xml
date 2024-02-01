@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Traditional buildings | Welcome!</title>
+    <link>https://earnor.github.io/tag/traditional-buildings/</link>
+      <atom:link href="https://earnor.github.io/tag/traditional-buildings/index.xml" rel="self" type="application/rss+xml" />
+    <description>Traditional buildings</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://earnor.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Traditional buildings</title>
+      <link>https://earnor.github.io/tag/traditional-buildings/</link>
+    </image>
+    
+    <item>
+      <title>Considering automated vehicle deployment uncertainty in the design of optimal parking garages using real options</title>
+      <link>https://earnor.github.io/publication/journal-article/2021-01-01_considering_automate/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://earnor.github.io/publication/journal-article/2021-01-01_considering_automate/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

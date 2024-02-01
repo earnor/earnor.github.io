@@ -1,34 +1,63 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>article-journal | Academic</title>
-    <link>https://example.com/publication-type/article-journal/</link>
-      <atom:link href="https://example.com/publication-type/article-journal/index.xml" rel="self" type="application/rss+xml" />
+    <title>article-journal | Welcome!</title>
+    <link>https://earnor.github.io/publication-type/article-journal/</link>
+      <atom:link href="https://earnor.github.io/publication-type/article-journal/index.xml" rel="self" type="application/rss+xml" />
     <description>article-journal</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://earnor.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>article-journal</title>
-      <link>https://example.com/publication-type/article-journal/</link>
+      <link>https://earnor.github.io/publication-type/article-journal/</link>
     </image>
     
     <item>
-      <title>An example journal article</title>
-      <link>https://example.com/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>A methodology for probabilistic pavement condition forecast based on Bayesian filters</title>
+      <link>https://earnor.github.io/publication/journal-article/2024-01-01_a_methodology_for_pr/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://earnor.github.io/publication/journal-article/2024-01-01_a_methodology_for_pr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Considering automated vehicle deployment uncertainty in the design of optimal parking garages using real options</title>
+      <link>https://earnor.github.io/publication/journal-article/2021-01-01_considering_automate/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://earnor.github.io/publication/journal-article/2021-01-01_considering_automate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Who is willing to share their AV? Insights about gender differences among seven countries</title>
+      <link>https://earnor.github.io/publication/journal-article/2021-01-01_who_is_willing_to_sh/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://earnor.github.io/publication/journal-article/2021-01-01_who_is_willing_to_sh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling cross-national differences in automated vehicle acceptance</title>
+      <link>https://earnor.github.io/publication/journal-article/2020-01-01_modeling_cross-natio/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://earnor.github.io/publication/journal-article/2020-01-01_modeling_cross-natio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sjálfakandi ökutæki á Íslandi: Viðhorf almennings gagnvart nýjum ferðamáta</title>
+      <link>https://earnor.github.io/publication/journal-article/2020-12-15_automated_vehicles_in_iceland/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://earnor.github.io/publication/journal-article/2020-12-15_automated_vehicles_in_iceland/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The role of human operators in safety perception of av deployment—insights from a large european survey</title>
+      <link>https://earnor.github.io/publication/journal-article/2020-01-01_the_role_of_human_op/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://earnor.github.io/publication/journal-article/2020-01-01_the_role_of_human_op/</guid>
+      <description></description>
     </item>
     
   </channel>
