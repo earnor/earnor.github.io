@@ -717,7 +717,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-823417965&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-815734926&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -727,7 +727,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-823417965&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-815734926&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1153,6 +1153,24 @@ $$&lt;/p&gt;
       <guid>https://earnor.github.io/project/futuremobility/</guid>
       <description>&lt;p&gt;Infrastructure is continually constructed and modified to meet changing needs of stakeholders. However, this is sometimes completed later than expected, resulting in unmet stakeholder needs for unnecessarily long periods. This delay is related to long duration of the planning process, length of time during which infrastructure is to be used and uncertainty associated with change in stakeholder needs over time. Improvement in speed with which changing needs can be met is likely to yield substantial benefits for stakeholders. The responsiveness of infrastructure planning organisations describes their ability to meet stakeholder needs quickly.&lt;/p&gt;
 &lt;p&gt;This research (1) maps the planning process of the relevant decision-makers planning regional transport infrastructure in practice, (2) identifies the potential of adaptive planning methods in planning practice, (3) develops state-of-the-art tools to plan regional infrastructure development considering future uncertainties, e.g., impact of automated, connected and electric vehicles and the complex interactions between mobility, infrastructure and land use.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://earnor.github.io/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://earnor.github.io/privacy/</guid>
+      <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>https://earnor.github.io/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://earnor.github.io/terms/</guid>
+      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
 </description>
     </item>
     

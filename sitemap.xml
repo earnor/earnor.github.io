@@ -549,5 +549,13 @@
     <loc>https://earnor.github.io/project/futuremobility/</loc>
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://earnor.github.io/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://earnor.github.io/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url>
 </urlset>
