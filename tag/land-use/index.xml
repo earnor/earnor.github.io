@@ -5,12 +5,37 @@
     <link>https://earnor.github.io/tag/land-use/</link>
       <atom:link href="https://earnor.github.io/tag/land-use/index.xml" rel="self" type="application/rss+xml" />
     <description>Land use</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 17 May 2024 17:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 Sep 2024 17:00:00 +0000</lastBuildDate>
     <image>
       <url>https://earnor.github.io/media/icon_huf66e362d6cee84c7c6f460d40a204662_33802_512x512_fill_lanczos_center_3.png</url>
       <title>Land use</title>
       <link>https://earnor.github.io/tag/land-use/</link>
     </image>
+    
+    <item>
+      <title>CRB - Fast lane for planning cycling infrastructure</title>
+      <link>https://earnor.github.io/talk/crb-fast-lane-for-planning-cycling-infrastructure/</link>
+      <pubDate>Wed, 04 Sep 2024 17:00:00 +0000</pubDate>
+      <guid>https://earnor.github.io/talk/crb-fast-lane-for-planning-cycling-infrastructure/</guid>
+      <description>&lt;!---
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Hugo Blox Builder&#39;s [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
+
+Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
+---&gt;</description>
+    </item>
     
     <item>
       <title>STRC - A methodology to identify and assess transport infrastructure development considering land-use uncertainty</title>
