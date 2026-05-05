@@ -5,12 +5,106 @@
     <link>https://earnor.github.io/</link>
       <atom:link href="https://earnor.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Arnór Elvarsson</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 05 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://earnor.github.io/media/icon_huf66e362d6cee84c7c6f460d40a204662_33802_512x512_fill_lanczos_center_3.png</url>
+      <url>https://earnor.github.io/media/icon_hua0ec2424ce1ddf565bd71bfdf64a863c_324262_512x512_fill_lanczos_center_3.png</url>
       <title>Arnór Elvarsson</title>
       <link>https://earnor.github.io/</link>
     </image>
+    
+    <item>
+      <title>TRA - Scanning for rail infrastructure in early planning</title>
+      <link>https://earnor.github.io/talk/tra-scanning-for-rail-infrastructure-in-early-planning/</link>
+      <pubDate>Mon, 18 May 2026 17:00:00 +0000</pubDate>
+      <guid>https://earnor.github.io/talk/tra-scanning-for-rail-infrastructure-in-early-planning/</guid>
+      <description>&lt;!---
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Hugo Blox Builder&#39;s [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
+
+Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
+---&gt;</description>
+    </item>
+    
+    <item>
+      <title>My doctoral defense</title>
+      <link>https://earnor.github.io/talk/my-doctoral-defense/</link>
+      <pubDate>Fri, 27 Feb 2026 17:00:00 +0000</pubDate>
+      <guid>https://earnor.github.io/talk/my-doctoral-defense/</guid>
+      <description>&lt;!---
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Hugo Blox Builder&#39;s [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
+
+Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
+---&gt;</description>
+    </item>
+    
+    <item>
+      <title>Fast-lane for planning cycling infrastructure: On the effectiveness and efficiency of cycling infrastructure planning processes</title>
+      <link>https://earnor.github.io/publication/featured-paper/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://earnor.github.io/publication/featured-paper/</guid>
+      <description>&lt;!---
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+---&gt;</description>
+    </item>
+    
+    <item>
+      <title>On the responsiveness of infrastructure processes: from identifying needs to delivery</title>
+      <link>https://earnor.github.io/publication/journal-article/2026-01-01_on_the_responsivenes/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://earnor.github.io/publication/journal-article/2026-01-01_on_the_responsivenes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping the Swiss Road and Rail Infrastructure Planning Process and Identifying Potential Areas for Improvement</title>
+      <link>https://earnor.github.io/publication/journal-article/2025-01-01_mapping_the_swiss_ro/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://earnor.github.io/publication/journal-article/2025-01-01_mapping_the_swiss_ro/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>CRB - Fast lane for planning cycling infrastructure</title>
@@ -129,34 +223,6 @@ Further event details, including [page elements](https://docs.hugoblox.com/refer
 &lt;/ul&gt;
 &lt;p&gt;Further event details, including &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>The value of accelerating the infrastructure planning process</title>
-      <link>https://earnor.github.io/publication/conference-paper/</link>
-      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://earnor.github.io/publication/conference-paper/</guid>
-      <description>&lt;!---
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
----&gt;</description>
     </item>
     
     <item>
@@ -791,7 +857,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-175983642&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-925168743&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -801,7 +867,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-175983642&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-925168743&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1221,30 +1287,32 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Wider-impacts of future mobility</title>
-      <link>https://earnor.github.io/project/futuremobility/</link>
+      <title>Optimising construction processes for prefabricated renovation</title>
+      <link>https://earnor.github.io/project/renomize/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://earnor.github.io/project/futuremobility/</guid>
+      <guid>https://earnor.github.io/project/renomize/</guid>
       <description>&lt;p&gt;Infrastructure is continually constructed and modified to meet changing needs of stakeholders. However, this is sometimes completed later than expected, resulting in unmet stakeholder needs for unnecessarily long periods. This delay is related to long duration of the planning process, length of time during which infrastructure is to be used and uncertainty associated with change in stakeholder needs over time. Improvement in speed with which changing needs can be met is likely to yield substantial benefits for stakeholders. The responsiveness of infrastructure planning organisations describes their ability to meet stakeholder needs quickly.&lt;/p&gt;
 &lt;p&gt;This research (1) maps the planning process of the relevant decision-makers planning regional transport infrastructure in practice, (2) identifies the potential of adaptive planning methods in planning practice, (3) develops state-of-the-art tools to plan regional infrastructure development considering future uncertainties, e.g., impact of automated, connected and electric vehicles and the complex interactions between mobility, infrastructure and land use.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Privacy Policy</title>
-      <link>https://earnor.github.io/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://earnor.github.io/privacy/</guid>
-      <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
+      <title>Process optimisation in rail system development</title>
+      <link>https://earnor.github.io/project/procargo/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://earnor.github.io/project/procargo/</guid>
+      <description>&lt;p&gt;Infrastructure is continually constructed and modified to meet changing needs of stakeholders. However, this is sometimes completed later than expected, resulting in unmet stakeholder needs for unnecessarily long periods. This delay is related to long duration of the planning process, length of time during which infrastructure is to be used and uncertainty associated with change in stakeholder needs over time. Improvement in speed with which changing needs can be met is likely to yield substantial benefits for stakeholders. The responsiveness of infrastructure planning organisations describes their ability to meet stakeholder needs quickly.&lt;/p&gt;
+&lt;p&gt;This research (1) maps the planning process of the relevant decision-makers planning regional transport infrastructure in practice, (2) identifies the potential of adaptive planning methods in planning practice, (3) develops state-of-the-art tools to plan regional infrastructure development considering future uncertainties, e.g., impact of automated, connected and electric vehicles and the complex interactions between mobility, infrastructure and land use.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Terms</title>
-      <link>https://earnor.github.io/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://earnor.github.io/terms/</guid>
-      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
+      <title>Wider-impacts of future mobility</title>
+      <link>https://earnor.github.io/project/futuremobility/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://earnor.github.io/project/futuremobility/</guid>
+      <description>&lt;p&gt;Infrastructure is continually constructed and modified to meet changing needs of stakeholders. However, this is sometimes completed later than expected, resulting in unmet stakeholder needs for unnecessarily long periods. This delay is related to long duration of the planning process, length of time during which infrastructure is to be used and uncertainty associated with change in stakeholder needs over time. Improvement in speed with which changing needs can be met is likely to yield substantial benefits for stakeholders. The responsiveness of infrastructure planning organisations describes their ability to meet stakeholder needs quickly.&lt;/p&gt;
+&lt;p&gt;This research (1) maps the planning process of the relevant decision-makers planning regional transport infrastructure in practice, (2) identifies the potential of adaptive planning methods in planning practice, (3) develops state-of-the-art tools to plan regional infrastructure development considering future uncertainties, e.g., impact of automated, connected and electric vehicles and the complex interactions between mobility, infrastructure and land use.&lt;/p&gt;
 </description>
     </item>
     

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>process optimisation | Arnór Elvarsson</title>
+    <link>https://earnor.github.io/tag/process-optimisation/</link>
+      <atom:link href="https://earnor.github.io/tag/process-optimisation/index.xml" rel="self" type="application/rss+xml" />
+    <description>process optimisation</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Feb 2026 17:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://earnor.github.io/media/icon_hua0ec2424ce1ddf565bd71bfdf64a863c_324262_512x512_fill_lanczos_center_3.png</url>
+      <title>process optimisation</title>
+      <link>https://earnor.github.io/tag/process-optimisation/</link>
+    </image>
+    
+    <item>
+      <title>My doctoral defense</title>
+      <link>https://earnor.github.io/talk/my-doctoral-defense/</link>
+      <pubDate>Fri, 27 Feb 2026 17:00:00 +0000</pubDate>
+      <guid>https://earnor.github.io/talk/my-doctoral-defense/</guid>
+      <description>&lt;!---
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Hugo Blox Builder&#39;s [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
+
+Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
+---&gt;</description>
+    </item>
+    
+    <item>
+      <title>Adaptive Mobility Infrastructure and Land-use</title>
+      <link>https://earnor.github.io/project/external-project/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://earnor.github.io/project/external-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Responsiveness of infrastructure planning - Embracing adaptive planning methods to meet societal needs</title>
+      <link>https://earnor.github.io/project/responsiveness/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://earnor.github.io/project/responsiveness/</guid>
+      <description>&lt;p&gt;Infrastructure is continually constructed and modified to meet changing needs of stakeholders. However, this is sometimes completed later than expected, resulting in unmet stakeholder needs for unnecessarily long periods. This delay is related to long duration of the planning process, length of time during which infrastructure is to be used and uncertainty associated with change in stakeholder needs over time. Improvement in speed with which changing needs can be met is likely to yield substantial benefits for stakeholders. The responsiveness of infrastructure planning organisations describes their ability to meet stakeholder needs quickly.&lt;/p&gt;
+&lt;p&gt;This research (1) maps the planning process of the relevant decision-makers planning regional transport infrastructure in practice, (2) identifies the potential of adaptive planning methods in planning practice, (3) develops state-of-the-art tools to plan regional infrastructure development considering future uncertainties, e.g., impact of automated, connected and electric vehicles and the complex interactions between mobility, infrastructure and land use.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
