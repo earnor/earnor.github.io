@@ -67,7 +67,8 @@ Further event details, including [page elements](https://docs.hugoblox.com/refer
       <link>https://earnor.github.io/publication/featured-paper/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://earnor.github.io/publication/featured-paper/</guid>
-      <description>&lt;!---
+      <description>&lt;p&gt;Timely development of cycling infrastructure is essential to achieving societal goals such as decarbonisation and cyclist traffic safety. However, delays in infrastructure project completion persist across many planning contexts, partly due to the infrastructure planning processes. This paper addresses the lack of academic research on infrastructure planning process improvement, specifically for cycling infrastructure, by applying a structured, three-step methodology—process mapping, process analysis and improvement proposal—to the case of Canton Zürich, Switzerland. The paper includes mapping the existing cycling infrastructure planning process, identifying process-related challenges using three decision-making criteria (technical readiness, societal consensus, and political-financial prioritisation), and proposing targeted improvements. Key findings highlight the need for timely planning mandates, early-stage cost overviews, and systematic treatment of uncertainty to enhance planning process efficiency. It is argued that these process modifications can accelerate the realisation of cycling infrastructure projects and improve alignment with long-term strategic goals such as achieving net-zero carbon emissions by 2050. By bridging the gap between planning process design and infrastructure outcomes, this study contributes an approach for analysing and improving planning processes. The findings are relevant for infrastructure planners, policymakers, and researchers seeking to support more effective and efficient cycling infrastructure development.&lt;/p&gt;
+&lt;!---
 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -91,11 +92,37 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     </item>
     
     <item>
+      <title>Fast-lane for planning cycling infrastructure: On the effectiveness and efficiency of cycling infrastructure planning processes</title>
+      <link>https://earnor.github.io/publication/journal-article/2026-01-01_fast-lane_for_planni/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://earnor.github.io/publication/journal-article/2026-01-01_fast-lane_for_planni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>On the responsiveness of infrastructure processes: from identifying needs to delivery</title>
       <link>https://earnor.github.io/publication/journal-article/2026-01-01_on_the_responsivenes/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://earnor.github.io/publication/journal-article/2026-01-01_on_the_responsivenes/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Process optimisation in rail system development</title>
+      <link>https://earnor.github.io/project/procargo/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://earnor.github.io/project/procargo/</guid>
+      <description>&lt;p&gt;Safe and efficient railway systems traditionally rely on centralised control and human-in-the-loop monitoring of its moving parts. However, this requires large amounts of resources for the network operation. Operators, responsible for implementing system developments based on innovative technologies to improve operational efficiency, must adhere to safety requirements for scalable and well-documented solutions to acquire regulatory approval. This requires consideration of multiple stakeholders and a highly complex conceptualisation process guaranteeing railway system safety. This involves significant expertise and coordination with the content of approximately 50-80 interconnected documents for a development of a new system, depending on the complexity of the technology. The interactions between the engineers and the documents, as well as among themselves, are key factors in determining the efficiency of the overall development process.&lt;/p&gt;
+&lt;p&gt;Over the long-duration development process, adjustments to the solution may be necessary. Accordingly, changes to the interdependent documentation to ensure ongoing compliance with safety requirements would also be necessary. Any changes can trigger cascading effects throughout the entire project, potentially increasing costs and delaying development, ultimately slowing down innovation within the railway system.&lt;/p&gt;
+&lt;p&gt;Strategic implementation of digital tools (including, but not limited to, Large Language Models), alongside procedural optimisations, can improve the efficiency of system development processes by facilitating the approval workflows for safety-critical railway systems. Successful improvement of these processes requires a thorough understanding and assessment of the in-between actions and the operational bottlenecks within organisations, as well as the interplay between the stakeholders involved, their respective technical and operational expertise, and the technological limitations. Existing rail infrastructure, technologies, and operational processes should also be considered as new solutions are built on limitations of the existing systems.&lt;/p&gt;
+&lt;p&gt;This goal is achieved by mapping the system development processes and its stakeholders, followed by an assessment of the potential of digital tool implementations and the necessary procedural changes to achieve streamlined and efficient system development processes that maintain the critical safety requirements. Insights from the Swiss and European rail system development projects are fundamental to ensure that the project remains grounded in industry knowledge and practice. The following objectives are therefore defined:&lt;/p&gt;
+&lt;p&gt;The system development process for innovative technologies at SBB Cargo is mapped, including involved stakeholders and exchange of information in each step,
+The European system development process is investigated based on the example of the European Train Control System (ETCS) development,
+A holistic process analysis is conducted to identify opportunities for improving the process for development of safety-critical rail systems,
+Hypotheses for implementation of digital tools are proposed and assessed based on the possible benefits to the investigated processes and costs related to required procedural changes, while critically assessing the reliability, accessibility, maintainability, and safety of these technologie.
+This project will act as an important first step to help move SBB Cargo towards an efficient development of safety-critical railway systems and contribute to guiding efforts in the digitalization of the system development processes across the railway sector.&lt;/p&gt;
+&lt;p&gt;This project has received funding from the ETH CSFM Mobility Initiative and the Federal Office of Transport (FOT).&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -880,7 +907,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-596143827&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-547692381&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -890,7 +917,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-596143827&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-547692381&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

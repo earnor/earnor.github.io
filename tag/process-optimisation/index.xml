@@ -38,6 +38,24 @@ Further event details, including [page elements](https://docs.hugoblox.com/refer
     </item>
     
     <item>
+      <title>Process optimisation in rail system development</title>
+      <link>https://earnor.github.io/project/procargo/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://earnor.github.io/project/procargo/</guid>
+      <description>&lt;p&gt;Safe and efficient railway systems traditionally rely on centralised control and human-in-the-loop monitoring of its moving parts. However, this requires large amounts of resources for the network operation. Operators, responsible for implementing system developments based on innovative technologies to improve operational efficiency, must adhere to safety requirements for scalable and well-documented solutions to acquire regulatory approval. This requires consideration of multiple stakeholders and a highly complex conceptualisation process guaranteeing railway system safety. This involves significant expertise and coordination with the content of approximately 50-80 interconnected documents for a development of a new system, depending on the complexity of the technology. The interactions between the engineers and the documents, as well as among themselves, are key factors in determining the efficiency of the overall development process.&lt;/p&gt;
+&lt;p&gt;Over the long-duration development process, adjustments to the solution may be necessary. Accordingly, changes to the interdependent documentation to ensure ongoing compliance with safety requirements would also be necessary. Any changes can trigger cascading effects throughout the entire project, potentially increasing costs and delaying development, ultimately slowing down innovation within the railway system.&lt;/p&gt;
+&lt;p&gt;Strategic implementation of digital tools (including, but not limited to, Large Language Models), alongside procedural optimisations, can improve the efficiency of system development processes by facilitating the approval workflows for safety-critical railway systems. Successful improvement of these processes requires a thorough understanding and assessment of the in-between actions and the operational bottlenecks within organisations, as well as the interplay between the stakeholders involved, their respective technical and operational expertise, and the technological limitations. Existing rail infrastructure, technologies, and operational processes should also be considered as new solutions are built on limitations of the existing systems.&lt;/p&gt;
+&lt;p&gt;This goal is achieved by mapping the system development processes and its stakeholders, followed by an assessment of the potential of digital tool implementations and the necessary procedural changes to achieve streamlined and efficient system development processes that maintain the critical safety requirements. Insights from the Swiss and European rail system development projects are fundamental to ensure that the project remains grounded in industry knowledge and practice. The following objectives are therefore defined:&lt;/p&gt;
+&lt;p&gt;The system development process for innovative technologies at SBB Cargo is mapped, including involved stakeholders and exchange of information in each step,
+The European system development process is investigated based on the example of the European Train Control System (ETCS) development,
+A holistic process analysis is conducted to identify opportunities for improving the process for development of safety-critical rail systems,
+Hypotheses for implementation of digital tools are proposed and assessed based on the possible benefits to the investigated processes and costs related to required procedural changes, while critically assessing the reliability, accessibility, maintainability, and safety of these technologie.
+This project will act as an important first step to help move SBB Cargo towards an efficient development of safety-critical railway systems and contribute to guiding efforts in the digitalization of the system development processes across the railway sector.&lt;/p&gt;
+&lt;p&gt;This project has received funding from the ETH CSFM Mobility Initiative and the Federal Office of Transport (FOT).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Optimising construction processes for prefabricated renovation</title>
       <link>https://earnor.github.io/project/renomize/</link>
       <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
